@@ -1,6 +1,6 @@
 id=mi15-pro
 name=Xiaomi 15 Pro
-version=v1.0.0
-versionCode=100
+version=v2.0.1
+versionCode=201
 author=clcwpwqi
-description=Phone ---> Xiaomi 15 Pro. (OS.2.0.23.2.VOBCNXM, haotian)
+description=Phone ---> Xiaomi 15 Pro and hide bootloader. (OS.2.0.23.2.VOBCNXM, haotian)
